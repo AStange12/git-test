@@ -1,4 +1,13 @@
+Steps for making changes to a doc and keeping track with git:
 first, you save your changes with ctr + s
 then, you stage them with git add .
 next, you commit them with git commit -m "msg"
-Last, you push with git push .
+Last, you push with git push origin main
+
+Other commands:
+git clone *repo name - clones repository from github
+git status - shows current status of changes, stages, and commits
+git log - gives log of commits
+
+Syntax:
+program(git) | action(commit -m) | destination("msg")
