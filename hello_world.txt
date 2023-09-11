@@ -1,0 +1,4 @@
+first, you save your changes with ctr + s
+then, you stage them with git add .
+next, you commit them with git commit -m "msg"
+Last, you push with git push .
